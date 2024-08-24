@@ -1,1 +1,3 @@
 # FindMyBook
+![FindMyBook](book.png)
+
